@@ -6,7 +6,7 @@
 
 ### [Project Title]
 Hello,
-Welcome to.. {PROJECT BASIC INTRODUCTION]
+Welcome to.. [PROJECT BASIC INTRODUCTION]
 [PROJECT DOMAIN]
 ### [PREREQUISITE KNOWLEDGE]
 * List down the technical aspects like HTML, NodeJs, Django
